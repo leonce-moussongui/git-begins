@@ -3,3 +3,4 @@ Pour cloner:git clone <adresse repository>
  -git add <nom_fichier> 
  -git commit -m message 
  -git push
+ -git pull: pour initialiser ma machine 
