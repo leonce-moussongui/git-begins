@@ -1,0 +1,5 @@
+Pour cloner:git clone <adresse repository> 
+ Les 3 commandes de push sont: 
+ -git add <nom_fichier> 
+ -git commit -m message 
+ -git push
